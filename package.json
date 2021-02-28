@@ -1,0 +1,27 @@
+{
+  "name": "my-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.11.1",
+    "@tailwindcss/typography": "^0.4.0",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "remove-markdown": "^0.3.0",
+    "tailwindcss-aspect-ratio": "^3.0.0",
+    "vue-instantsearch": "^3.4.3",
+    "v-click-outside": "^3.1.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.1.0",
+    "@nuxtjs/google-fonts": "1.0.3",
+    "tailwindcss-responsive-embed": "^1.0.0",
+    "@tailwindcss/ui": "^0.7.2"
+  }
+}

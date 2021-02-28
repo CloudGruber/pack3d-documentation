@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Gruberr\\\\pack3d\\\\docs\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0f60267d"
+  },
+  {
+    "name": "doc",
+    "path": "/:doc",
+    "component": "C:\\\\Users\\\\Gruberr\\\\pack3d\\\\docs\\\\pages\\\\_doc.vue",
+    "chunkName": "pages/_doc",
+    "_name": "_5b959fc4"
+  }
+]

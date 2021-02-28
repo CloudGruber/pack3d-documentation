@@ -1,0 +1,50 @@
+{
+  "YouTube": {
+    "description": "Auto imported from components/global/YouTube.vue"
+  },
+  "LazyYouTube": {
+    "description": "Auto imported from components/global/YouTube.vue"
+  },
+  "DesktopSidebar": {
+    "description": "Auto imported from components/DesktopSidebar.vue"
+  },
+  "LazyDesktopSidebar": {
+    "description": "Auto imported from components/DesktopSidebar.vue"
+  },
+  "DocsContents": {
+    "description": "Auto imported from components/DocsContents.vue"
+  },
+  "LazyDocsContents": {
+    "description": "Auto imported from components/DocsContents.vue"
+  },
+  "ExternalLinks": {
+    "description": "Auto imported from components/ExternalLinks.vue"
+  },
+  "LazyExternalLinks": {
+    "description": "Auto imported from components/ExternalLinks.vue"
+  },
+  "GlobeIcon": {
+    "description": "Auto imported from components/GlobeIcon.vue"
+  },
+  "LazyGlobeIcon": {
+    "description": "Auto imported from components/GlobeIcon.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "MainHeader": {
+    "description": "Auto imported from components/MainHeader.vue"
+  },
+  "LazyMainHeader": {
+    "description": "Auto imported from components/MainHeader.vue"
+  },
+  "MobileMenu": {
+    "description": "Auto imported from components/MobileMenu.vue"
+  },
+  "LazyMobileMenu": {
+    "description": "Auto imported from components/MobileMenu.vue"
+  }
+}
